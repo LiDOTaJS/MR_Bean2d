@@ -11,3 +11,5 @@ Pirmais Unity 2D projekts, apgūst UI elementu lietošanu
 - [ ] Otrās ainas (scene) ieviešana
 - [ ] Collider 2D un Rigidbody 2D (fizikas spēku iedarbība)
 - [ ] Virtuļu spavneris
+
+![MR. Bean ar Teddy](https://www.pngplay.com/wp-content/uploads/7/Mr-Bean-Transparent-Free-PNG.png)
